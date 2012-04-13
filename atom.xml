@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://luigipalazzolo.github.com/atom.xml" rel="self"/>
   <link href="http://luigipalazzolo.github.com/"/>
-  <updated>2012-04-13T16:23:16+01:00</updated>
+  <updated>2012-04-13T16:42:02+01:00</updated>
   <id>http://luigipalazzolo.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[im post]]></title>
+    <link href="http://luigipalazzolo.github.com/blog/2012/04/13/im-post/"/>
+    <updated>2012-04-13T16:30:00+01:00</updated>
+    <id>http://luigipalazzolo.github.com/blog/2012/04/13/im-post</id>
+    <content type="html"><![CDATA[<p>Edited from mb1-1</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[New Post]]></title>
